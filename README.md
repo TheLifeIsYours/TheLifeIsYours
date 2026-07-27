@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C217%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C151%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-484%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,6 +39,28 @@ Markdown                 0 secs              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Mac                      2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 mins (100.0%)
+
+✍️ 324 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 643,128 Input Tokens, 7,231 Output Tokens
+
+💵 $36.05 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+Claude                   599 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,5 +74,5 @@ Dart                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 27/07/2026 14:48:33 UTC
+ Last Updated on 27/07/2026 17:48:35 UTC
 <!--END_SECTION:waka-->
